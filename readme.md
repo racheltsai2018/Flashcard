@@ -6,7 +6,7 @@ An Flashcard app that has a question on it, when you tap on it the answer will a
 ### App Walk-though
 
 
-<img src="http://recordit.co/kXmJBupBm1" width=200><br>
+<img src="http://recordit.co/kXmJBupBm1.gif" width=200><br>
 
 
 ## Required
