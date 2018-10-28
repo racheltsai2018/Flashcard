@@ -30,7 +30,6 @@ class CreationViewController: UIViewController {
         let answerText = answerTextField.text
         
         flashcardsController.updateFlashCard(question: questionText!, answer: answerText!)
-
         
         dismiss(animated: true)
     }
