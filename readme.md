@@ -34,7 +34,7 @@ An Flashcard app that has a question on it, when you tap on it the answer will a
 - [ ] User can edit existing flashcard
 - [ ] User can add multiple choice answers in the creation screen
 
-## NAME_OF_YOUR_APP_HERE
+## Flashcard
 
 ### App Description
 An Flashcard app that has a question on it, when you tap on it the answer will appear and the question will disappear.
