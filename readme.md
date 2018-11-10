@@ -1,3 +1,21 @@
+## Lab 3
+
+### App Description
+An Flashcard app that has a question on it, when you tap on it the answer will appear and the question will disappear. When you tap the + button on the bottom, you can make a new flashcard by entering a question and an answer. You can add more than one flashcard. When you want to see previous flashcards just press the Previous button, and when you want to see the next flashcard press the Next button.
+
+### App Walk-though
+<img src="http://recordit.co/HPDuVVzcNm.gif" width=200><br>
+
+## Required
+- [X] User can browse through multiple flashcards
+- [X] User can re-open the app and see previously created flashcards
+- [X] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
 ## Lab 2
 
 ### App Description
