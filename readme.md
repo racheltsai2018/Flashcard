@@ -1,3 +1,24 @@
+## Lab 4
+
+### App Description
+An Flashcard app that has a question on it, when you tap on it the answer will appear and the question will disappear. When you tap the + button on the bottom, you can make a new flashcard by entering a question and an answer. You can add more than one flashcard. When you want to see previous flashcards just press the Previous button, and when you want to see the next flashcard press the Next button. The Flashcard app now has animations added to it when you press the previous and next button, and when you check the answer.
+
+### App Walk-though
+<img src="http://recordit.co/dwWxSexczh.gif" width=200><br>
+
+
+## Required
+- [X] User should see the app icon 
+- [X] User should see a splash screen
+- [X] User should see an flip animation when revealing the answer
+- [X] User should see a slide animation when going to the next flashcard
+- [X] User should see a slide animation when going to the previous flashcard
+- [X] Push code to GitHub
+## Optional
+- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [ ] User should see all views properly layout when using the app on a phone of different sizes
+- [ ] Correct answer in multiple choice should be random
+
 ## Lab 3 
 
 ### App Description
